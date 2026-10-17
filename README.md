@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 模組化溺水偵測系統
 
 這是一套以 Ultralytics You Only Look Once (YOLO)、ByteTrack、OpenCV、Flask 與
@@ -341,3 +342,6 @@ CSV 在偵測開始時建立，處理結束或停止後 `log_ready` 才會設為
 
 完整端到端效果仍取決於執行平台、套件版本、模型權重、輸入影片／串流、網路連線與
 LINE 官方帳號設定；正式部署前應使用實際目標場域資料進行測試與安全驗證。
+=======
+# Drowning_detection_system
+>>>>>>> 3acaf7083a4f7910738846a969d5f1a9af805e74
